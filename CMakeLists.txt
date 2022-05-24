@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.22)
+project(first_negative_integer_in_every_window_of_size_k)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(first_negative_integer_in_every_window_of_size_k main.cpp)
